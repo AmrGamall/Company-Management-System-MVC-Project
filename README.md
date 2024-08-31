@@ -1,4 +1,4 @@
-Features
+*Features
 Authentication (Login & SignUp )
 Forget Password - Reset Password
 Google External Login
