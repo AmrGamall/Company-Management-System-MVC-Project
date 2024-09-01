@@ -1,20 +1,21 @@
 # Features
 
-Authentication (Login & SignUp )
+•	Authentication (Login & SignUp )
 
-Forget Password - Reset Password
+•	Forget Password - Reset Password
 
-Google External Login
+•	Google External Login
 
-Employee CRUD Operations
+•	Employee CRUD Operations
 
-Department CRUD Operations
+•	Department CRUD Operations
 
-Users CRUD Operations
+•	Users CRUD Operations
 
-Role CRUD Operations
+•	Role CRUD Operations
 
-Upload Employee image file
+•	Upload Employee image file
+
 
 
 
