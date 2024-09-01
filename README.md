@@ -38,6 +38,17 @@ Please make sure to update tests as appropriate.
 
 
 
+Authentication (Login & SignUp )
+Forget Password - Reset Password
+Google External Login
+Employee CRUD Operations
+Department CRUD Operations
+Search for employee By Name (Ajax call)
+Upload Employee image file
+Users CRUD Operations
+Role CRUD Operations
+
+
 
 
 
