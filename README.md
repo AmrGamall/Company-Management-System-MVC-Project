@@ -1,4 +1,4 @@
-Features
+#Features
 Authentication (Login & SignUp )
 Forget Password - Reset Password
 Google External Login
@@ -10,7 +10,7 @@ Upload Employee image file
 
 
 
-Technologies & Tools
+##Technologies & Tools
 .Asp .Net Core MVC
 Entity Framwork Core
 LINQ
